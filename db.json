@@ -1,0 +1,15 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-server", "author": "typicode" },
+    { "id": 3, "title": "json-server", "author": "typicode" },
+    { "id": 4, "title": "json-server", "author": "typicode" },
+    { "id": 5, "title": "json-server", "author": "typicode" }
+  ],
+  "products": [
+    {"id": 1, "title": "Fasole", "producer": "Sprite"},
+    {"id": 2, "title": "Cartofi", "producer": "Mosu"},
+    {"id": 3, "title": "Carnati", "producer": "Cola"},
+    {"id": 4, "title": "Sandvis nebun", "producer": "Brutaru"}
+  ]
+}
